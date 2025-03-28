@@ -1,11 +1,14 @@
 ## Hi there 👋
+- I am a student at Seattle Pacific University
+- Currently I am working on a project for my Data and Society class
+
 
 <!--
 **IsaBurn/IsaBurn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- I am a student at Seattle Pacific University
+I am a student at Seattle Pacific University
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
